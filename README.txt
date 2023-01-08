@@ -1,6 +1,6 @@
 This is an implementation of Adaptive Huffman compression algorithm. It includes both encoder and decoder that run separately from each other. This implementation does not give a gain in compression at all compared to the two-pass Huffman algorithm, so it can be improved. But the idea of using adaptive tree formation instesd of doing two passes just seems to be better or at least more interesting :D
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
 
 Работа с бинарным деревом Хаффмана
 1. В начале работы содержит только специальный символ (esc-символ), имеющий частоту 0.
